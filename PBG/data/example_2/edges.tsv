@@ -1,0 +1,11 @@
+alice	bought	fridge
+alice	bought	bike
+bob	bought	laptop
+carol	bought	fridge
+carol	sold	laptop
+carol	sold	bike
+dave	sold	fridge
+alice	follows	bob
+bob	follows	carol
+bob	hates	dave
+dave	hates	carol
